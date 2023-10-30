@@ -1,4 +1,19 @@
-### Hi there 👋
+
+<div align="center">
+  <h1>Ciao, mi chaimo Nicolò 👋</h1>
+</div>
+<hr>
+<div align="center">
+  <div id="badges">
+    <a href="https://it.linkedin.com/in/nicolò-amato3487?trk=profile-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> 
+  </div>
+  <div>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  </div>
+</div>
+
 
 <!--
 **Nicolo3487/Nicolo3487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
